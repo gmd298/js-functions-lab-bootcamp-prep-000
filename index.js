@@ -1,7 +1,5 @@
 // write your code below!
 
-var General = 'Happy holidays!';
-
 function happyHolidays(a) {
   return "Happy holidays!"
 }
