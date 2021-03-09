@@ -1,15 +1,15 @@
 // write your code below!
 
-var General = 'Happy holidays!'
+var General = 'Happy holidays!';
 
-var name = 'Griffin'
+var Name = 'Griffin';
 
-function happyHolidays(A) {
+function happyHolidays(a) {
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(name) {
-  if `name`
+function happyHolidaysTo(b) {
+  if (name)
     return "Happy holidays," name"!"
 }
 
