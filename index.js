@@ -2,11 +2,13 @@
 
 var General = 'Happy holidays!'
 
+var name = 'Griffin'
+
 function happyHolidays(A) {
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(B) {
+function happyHolidaysTo(name) {
   return "Happy holidays, ${name}!"
 }
 
