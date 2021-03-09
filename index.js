@@ -2,8 +2,6 @@
 
 var General = 'Happy holidays!';
 
-var Name = 'Griffin';
-
 function happyHolidays(a) {
   return "Happy holidays!"
 }
