@@ -1,11 +1,11 @@
 // write your code below!
 
-function happyHolidays(a) {
+function happyHolidays() {
   return "Happy holidays!"
 }
 
 function happyHolidaysTo(b) {
-  return (`Happy holidays, ${name}!`)
+  return `Happy holidays, ${name}!`
 }
 
 
