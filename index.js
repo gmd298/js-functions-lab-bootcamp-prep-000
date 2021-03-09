@@ -4,10 +4,6 @@ function happyHolidays(a) {
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(b) {
-  if (name)
-    return ("Happy holidays," name"!")
-}
 
 
 
