@@ -9,7 +9,8 @@ function happyHolidays(A) {
 }
 
 function happyHolidaysTo(name) {
-  return "Happy holidays, `name`!"
+  if `name`
+    return "Happy holidays," name"!"
 }
 
 
